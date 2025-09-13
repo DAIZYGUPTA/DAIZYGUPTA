@@ -12,7 +12,7 @@ I specialize in **Python, SQL, Power BI, Statistics, and Machine Learning** to t
 
 ## 📊 Featured Projects  
 🔹 [Sales Dashboard & Forecasting](https://github.com/DAIZYGUPTA/Sales-analytics-Dashboard) – Interactive BI dashboard + time series  
-🔹 [Customer Analytics (183K+ records)]([GitHub_Link](https://github.com/DAIZYGUPTA/customer-analytics-bi-project) – Python + BI complaint insights  
+🔹 [Customer Analytics (183K+ records)](https://github.com/DAIZYGUPTA/customer-analytics-bi-project) – Python + BI complaint insights  
 🔹 [HR Analytics Dashboard](https://github.com/DAIZYGUPTA/hr-analytics-dashboard)  
 
 ---
