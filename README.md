@@ -1,18 +1,23 @@
-- 👋 Hi, I’m @DAIZYGUPTA  
+-  Hi, I’m @DAIZYGUPTA  
 
-🚀 **Aspiring Data Scientist | Ex-VLSI Engineer**  
-I specialize in **Python, Machine Learning, SQL, Power BI, and Statistics,** to turn data into insights. Passionate about solving business problems with **analytics, dashboards, and predictive models**.  
+---
+##  Aspiring AI / ML Engineer | Data Scientist Enthusiast
 
 ---
 
-## 🛠️ Skills  
-💻 Python | 🤖 Machine Learning | 🔍 Data Wrangling  | 📊 SQL | 📈 Power BI | Stats
+-- Currently working on:
 
+ - End-to-end data pipelines
+ - Production-style scraping projects
+ - ML-ready datasets
+ - Feature engineering workflows
+ - Visualization systems
+ - Learning MLOps fundamentals
 ---
 
 ## 📊 Featured Projects
 
-🔹 [Hockey Teams Scraping Pipeline](https://github.com/DAIZYGUPTA/hockey-data-pipeline)
+🔹 [Hockey Teams Scraping Pipeline](https://github.com/DAIZYGUPTA/hockey-data-pipeline) - A modular end-to-end scraping + analytics pipeline
 
 🔹 [Sales Dashboard & Forecasting](https://github.com/DAIZYGUPTA/Sales-analytics-Dashboard) – Interactive BI dashboard + time series
 
@@ -21,6 +26,10 @@ I specialize in **Python, Machine Learning, SQL, Power BI, and Statistics,** to 
 🔹 [HR Analytics Dashboard](https://github.com/DAIZYGUPTA/hr-analytics-dashboard)  
 
 ---
+
+###  Skills  
+ Python |  Machine Learning |  Data Wrangling  |  SQL |  Power BI | Stats
+ ---
 
 ## 📫 Connect with Me  
 🌐 [LinkedIn](inkedin.com/in/daizy-gupta-6519b388) | 📧 [Email](guptadaizy2495@gmail.com) |  
