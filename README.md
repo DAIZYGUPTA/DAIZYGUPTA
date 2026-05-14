@@ -1,18 +1,23 @@
 - 👋 Hi, I’m @DAIZYGUPTA  
 
 🚀 **Aspiring Data Scientist | Ex-VLSI Engineer**  
-I specialize in **Python, SQL, Power BI, Statistics, and Machine Learning** to turn data into insights. Passionate about solving business problems with **analytics, dashboards, and predictive models**.  
+I specialize in **Python, Machine Learning, SQL, Power BI, and Statistics,** to turn data into insights. Passionate about solving business problems with **analytics, dashboards, and predictive models**.  
 
 ---
 
 ## 🛠️ Skills  
-💻 Python | 📊 SQL | 📈 Power BI | Stats | 🤖 Machine Learning | 🔍 Data Wrangling  
+💻 Python | 🤖 Machine Learning | 🔍 Data Wrangling  | 📊 SQL | 📈 Power BI | Stats
 
 ---
 
-## 📊 Featured Projects  
-🔹 [Sales Dashboard & Forecasting](https://github.com/DAIZYGUPTA/Sales-analytics-Dashboard) – Interactive BI dashboard + time series  
+## 📊 Featured Projects
+
+🔹 [Hockey Teams Scraping Pipeline](https://github.com/DAIZYGUPTA/hockey-data-pipeline)
+
+🔹 [Sales Dashboard & Forecasting](https://github.com/DAIZYGUPTA/Sales-analytics-Dashboard) – Interactive BI dashboard + time series
+
 🔹 [Customer Analytics (183K+ records)](https://github.com/DAIZYGUPTA/customer-analytics-bi-project) – Python + BI complaint insights  
+
 🔹 [HR Analytics Dashboard](https://github.com/DAIZYGUPTA/hr-analytics-dashboard)  
 
 ---
