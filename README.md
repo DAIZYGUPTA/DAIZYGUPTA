@@ -17,6 +17,8 @@
 
 ## 📊 Featured Projects
 
+🔹 [Turtle Scraper — Scrapy-Based Multi-Page Crawler](https://github.com/DAIZYGUPTA/Turtle-Scraper--Scrapy-Based-Multi-Page-Crawler) - A production-style web crawling project built using Scrapy to extract turtle family information from iframe-based pages.
+
 🔹 [Hockey Teams Scraping Pipeline](https://github.com/DAIZYGUPTA/hockey-data-pipeline) - A modular end-to-end scraping + analytics pipeline
 
 🔹 [Sales Dashboard & Forecasting](https://github.com/DAIZYGUPTA/Sales-analytics-Dashboard) – Interactive BI dashboard + time series
